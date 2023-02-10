@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORMTraine", "ORMTraine\ORMTraine.csproj", "{891D6EEB-FB5F-42C5-B87F-1ECD63401EF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{891D6EEB-FB5F-42C5-B87F-1ECD63401EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891D6EEB-FB5F-42C5-B87F-1ECD63401EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891D6EEB-FB5F-42C5-B87F-1ECD63401EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891D6EEB-FB5F-42C5-B87F-1ECD63401EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7E5124C-DA64-4DB3-A771-93EB6894EA2D}
+	EndGlobalSection
+EndGlobal
