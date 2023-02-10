@@ -97,9 +97,7 @@ namespace ORMTraine
              */
             #endregion
 
-            Console.WriteLine("Проверка изменений.");
-
-
+            
 
 
         }
